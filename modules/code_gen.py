@@ -1,10 +1,3 @@
-'''
-Intermediate Code Generator module of the Simple C Compiler
-
-Author:             Pasi Pyrrö
-Date:               1 April 2020
-'''
-
 import os
 from scanner import SymbolTableManager
 
